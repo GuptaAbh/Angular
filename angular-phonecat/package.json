@@ -1,9 +1,12 @@
 {
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
-  "name": "angular-phonecat",
+  "name": "test",
   "description": "A tutorial application for AngularJS",
-  "repository": "https://github.com/angular/angular-phonecat",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/angular-phonecat.git"
+  },
   "license": "MIT",
   "devDependencies": {
     "karma": "^0.12.16",
@@ -32,5 +35,17 @@
   "dependencies": {
     "bower": "^1.7.9",
     "express": "^4.13.4"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/angular/angular-phonecat/issues"
+  },
+  "homepage": "https://github.com/angular/angular-phonecat#readme",
+  "main": "y",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "y"
+  ],
+  "author": "abhi"
 }
